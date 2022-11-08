@@ -1,0 +1,21 @@
+15000
+Joao Paulo 1900
+Paulo Antonio 13755
+Paulo Pedro 1250
+Paulo Vicente 905
+Vicente Filho 850
+Vicente Gabriel 555
+Vicente Miguel 8350
+Joao Gustavo 2550
+Gustavo Junior 9505
+Gustavo Adao 375
+Adao Davi 3465
+Joao Adair 305
+Adair Neto 835
+Neto Arthur 895
+Neto Lucas 995
+Joao Augusto 735
+Augusto Fernando 4050
+Augusto Luis 6895
+Luis Guilherme 1075
+Joao Jose 9985
